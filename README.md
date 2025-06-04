@@ -4,7 +4,7 @@ Hi 👋 My name is HeckerMaster2
 Desktop Developer
 -----------------
 
-I develop mainly Dekstop applications on Windows using the WinUI framework.
+I develop mainly Dekstop applications on Windows using the WinUI framework. At the moment I'm working on private repositories.
 
 * 🌍  I'm based in Moscow
 * 🧠  I'm learning C#, C++ and PgSQL
