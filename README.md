@@ -1,7 +1,7 @@
 Hi 👋 My name is HeckerMaster2
 ==============================
 
-Desktop Developer
+Desktop C# Developer
 -----------------
 
 I develop mainly Dekstop applications on Windows using the WinUI framework. At the moment I'm working on private repositories.
